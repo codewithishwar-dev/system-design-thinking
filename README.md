@@ -262,6 +262,7 @@ Building in public 🚀
 
 Learning one system at a time.
 
+`
 system-design-thinking/
 │
 ├── README.md
@@ -291,3 +292,6 @@ system-design-thinking/
 ├── diagrams/
 ├── images/
 └── resources/
+`
+
+
